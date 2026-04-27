@@ -1,0 +1,6 @@
+Bourdieu,1979
+Foucault,2001
+Durkheim,1897
+Butler,2005
+Mauss,1923
+Touraine,2013
